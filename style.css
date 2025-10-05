@@ -23,7 +23,7 @@ html {
 
 body {
     font-family: var(--font-nav);
-    background-image: url('assets/Background.png');
+    background-image: url('Background.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -912,4 +912,5 @@ nav ul {
     .contact-links a {
         font-size: 0.9rem;
     }
+
 }
